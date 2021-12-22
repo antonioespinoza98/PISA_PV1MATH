@@ -4,12 +4,6 @@
 
 ## Evaluar las variables de género y socioeconómicas propuesta para determinar su influencia en las brechas de rendimiento de los estudiantes latinoamericanos en la prueba de matemática de Pisa 2012
 
-### Marco Antonio Espinoza Marín B82760
-### Isaura Gutiérrez Vargas B73591 
-### Alison Lobo Salas B84339
-### Felipe Moya Alvarado B85446 
-### Daniela Vindas Torres B88619
-
 
 ## *Paquetes a utilizar*
 
